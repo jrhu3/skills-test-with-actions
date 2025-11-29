@@ -7,7 +7,8 @@ on:
 
 permissions:
   pull-requests: write
-  jobs:
+  
+jobs:
   python-coverage:
     runs-on: ubuntu-latest
 
